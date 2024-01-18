@@ -1,4 +1,4 @@
-# HotwordEnrollment - from haydn V13.0.1.0.TKKMIXM
+# HotwordEnrollment - from haydn V13.0.1.0
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml|563a58554d9c0dd0608552b644fbf74519a447bb
 product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk|3a0089f1a2d5b5acca1cec8330db5c5f3d738f2a
 product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk|5b6439d4ee66206fd4b1159294b363920fe39a82
